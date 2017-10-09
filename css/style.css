@@ -204,7 +204,7 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 	width: 100%;
     height: 100vh;
 	z-index: 0;
-    background: url('../images/main4.jpg') center center no-repeat fixed;
+    background: url('../images/capa.jpg') center center no-repeat fixed;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -216,7 +216,7 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 }
 .header .header-main .heading #typing-effect {
 	display: inline;
-	font-size: 78px;
+	font-size: 70px;
 	font-weight: 800;
 	color: white;
 }
@@ -904,7 +904,7 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 		padding: 10px 10px;
 	}
 	.header .header-main .heading #typing-effect {
-		font-size: 60px;
+		font-size: 55px;
 	}	
 	.header .header-main .heading span{
 		font-size: 60px;
@@ -1033,7 +1033,7 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 		padding: 5px 5px;
 	}
 	.header .header-main .heading #typing-effect {
-		font-size: 45px;
+		font-size: 40px;
 	}	
 	.header .header-main .heading span {
 		font-size: 45px;
@@ -1164,7 +1164,7 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 	
 	/*Start Header Section*/
 	.header .header-main .heading #typing-effect {
-		font-size: 30px;
+		font-size: 28px;
 	}	
 	.header .header-main .heading span{
 		font-size: 30px;
