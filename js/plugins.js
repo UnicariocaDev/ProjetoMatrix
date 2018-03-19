@@ -73,7 +73,7 @@ URL: https://themeforest.net/user/dupinder15
 	  3 - Typewriter Effect Controls
 	--------------------------------------------------------------- */
 	$("#typing-effect").typed({
-		strings: ["Somos o Projeto Matrix", "Transformamos vidas"],//Change Page Heading Here
+		strings: ["We're the Matrix Project", "Developing people"],//Change Page Heading Here
 		typeSpeed: 80,
 		backSpeed: 15,
 		loop: true,
